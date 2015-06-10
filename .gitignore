@@ -1,2 +1,9 @@
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+/out/
+
 /target
 /msgpack-java-046c5d5cdd.pom
